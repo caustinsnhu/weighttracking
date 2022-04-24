@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeightTracking</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="subject">Add Weight</string>
+    <string name="create">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="date">
+        <item name="android:textSize">@dimen/detail_date_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingLeft">@dimen/detail_padding</item>
+        <item name="android:paddingRight">@dimen/detail_padding</item>
+        <item name="android:paddingTop">@dimen/detail_padding</item>
+    </style>
+
+    <style name="weightValue">
+        <item name="android:textSize">@dimen/detail_weight_text_size</item>
+        <item name="android:paddingLeft">@dimen/detail_padding</item>
+        <item name="android:paddingRight">@dimen/detail_padding</item>
+        <item name="android:paddingTop">@dimen/detail_padding</item>
+    </style>
+</resources>
